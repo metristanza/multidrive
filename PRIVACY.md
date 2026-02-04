@@ -65,7 +65,7 @@ We may update this Privacy Policy occasionally. Changes will be posted here with
 ## Contact
 
 Questions about this Privacy Policy?  
-Contact: metristanza@gmail.com
+Contact: remoscopeinc@gmail.com
 
 ---
 

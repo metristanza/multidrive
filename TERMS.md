@@ -65,7 +65,7 @@ These Terms are governed by applicable local laws. Disputes will be resolved thr
 ## Contact
 
 Questions about these Terms?  
-Contact: metristanza@gmail.com
+Contact: remoscopeinc@gmail.com
 
 ---
 

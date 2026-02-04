@@ -29,7 +29,7 @@ Want unlimited accounts, files, and folder copying?
 
 1. Open the extension and click "Upgrade"
 2. Copy your Install ID
-3. Send $20 via PayPal to `metristanza@gmail.com` with your Install ID
+3. Send $20 via PayPal to `remoscopeinc@gmail.com` with your Install ID
 4. Receive your license key via email
 
 ## Privacy
@@ -38,7 +38,7 @@ See our [Privacy Policy](PRIVACY.md)
 
 ## Support
 
-Questions? Contact: metristanza@gmail.com
+Questions? Contact: remoscopeinc@gmail.com
 
 ---
 
