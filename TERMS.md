@@ -1,7 +1,7 @@
 # Terms of Service
 
 **Multi-Drive Smart Copy**  
-*Last updated: February 2024*
+*Last updated: February 2026*
 
 ## Agreement
 
@@ -9,7 +9,7 @@ By using Multi-Drive Smart Copy ("the Extension"), you agree to these Terms of S
 
 ## Description of Service
 
-The Extension allows you to copy files between Google Drive accounts you own or have authorized access to. The service operates through Google's APIs and does not store or process your files on external servers.
+The Extension allows you to copy files between Google Drive accounts you own or have authorized access to. The service operates through Google's APIs and does not store or process your files on external servers. You select files through Google Picker, and copying is performed directly between your accounts via Google's servers.
 
 ## User Responsibilities
 
@@ -25,8 +25,9 @@ You agree to:
 The free version is provided at no cost with limitations (2 accounts, 10 files per copy, no folder copying).
 
 ### Paid Version
-- One-time payment of $20 USD grants a license for unlimited use on one installation
-- License keys are non-transferable and tied to a specific installation
+- **$5 USD per month** or **$50 USD per year** grants unlimited use
+- License is tied to your email address
+- You may cancel your subscription at any time
 - Refunds are available within 7 days of purchase if the Extension does not work as described
 
 ## Intellectual Property
@@ -44,11 +45,11 @@ THE EXTENSION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. WE DO NOT GUARAN
 
 IN NO EVENT SHALL WE BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OF THE EXTENSION.
 
-Maximum liability is limited to the amount paid for the license ($20 USD).
+Maximum liability is limited to the amount paid for the subscription in the current billing period.
 
 ## Google API Services
 
-The Extension uses Google API Services. By using the Extension, you also agree to be bound by Google's Terms of Service.
+The Extension uses Google API Services (drive.file scope and Picker API). By using the Extension, you also agree to be bound by Google's Terms of Service.
 
 ## Changes to Terms
 
@@ -56,7 +57,7 @@ We may modify these Terms at any time. Continued use of the Extension after chan
 
 ## Account Termination
 
-We reserve the right to revoke license keys for violations of these Terms.
+We reserve the right to revoke licenses for violations of these Terms.
 
 ## Governing Law
 
@@ -69,4 +70,4 @@ Contact: remoscopeinc@gmail.com
 
 ---
 
-© 2024 Multi-Drive Smart Copy
+© 2026 Multi-Drive Smart Copy
