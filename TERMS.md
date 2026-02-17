@@ -25,9 +25,8 @@ You agree to:
 The free version is provided at no cost with limitations (2 accounts, 10 files per copy, no folder copying).
 
 ### Paid Version
-- **$5 USD per month** or **$50 USD per year** grants unlimited use
-- License is tied to your email address
-- You may cancel your subscription at any time
+- **One-time payment of $20 USD** grants a license for unlimited use
+- License keys are non-transferable and tied to a specific installation
 - Refunds are available within 7 days of purchase if the Extension does not work as described
 
 ## Intellectual Property
@@ -45,7 +44,7 @@ THE EXTENSION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. WE DO NOT GUARAN
 
 IN NO EVENT SHALL WE BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OF THE EXTENSION.
 
-Maximum liability is limited to the amount paid for the subscription in the current billing period.
+Maximum liability is limited to the amount paid for the license ($20 USD).
 
 ## Google API Services
 
